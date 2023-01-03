@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 I’m currently working at Brandoville Studios as a Junior Game Programmer<br>🤝🏻 I’m looking to collaborate for Game Jam<br>🎮 I’m currently learning UE5<br>📧 Reach me at atthiyya@gmail.com<br>🌻 Fun fact I'm a geek and anyway nice to meet ya!
+👩🏻‍💻 I’m currently working at Brandoville Studios as a Junior Game Programmer<br>🤝🏻 I’m looking to collaborate for Game Jam<br>🎮 I’m currently learning UE5 with C++<br>📧 Reach me at atthiyya@gmail.com<br>🌻 Fun fact I'm a geek and anyway nice to meet ya!
 
 
 ## 🌐 Socials:
