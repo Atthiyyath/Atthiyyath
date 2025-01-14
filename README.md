@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 Currently i'm working for XRUN Metaverse Indonesia remotely<br>🤝🏻 I’m looking for a collaboration next GGJ<br>🎮 I'm using UE5 with C++ and BP<br>📧 Find me on DC @/atthiyya
+👩🏻‍💻 Currently i'm working for XRUN Metaverse<br>🤝🏻 I’m looking for a collaboration next GGJ<br>🎮 I'm using UE5 with C++ and BP<br>📧 Find me on DC @/atthiyya
 
 
 ## 🌐 Socials:
