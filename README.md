@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 Currently i'm open to work<br>🤝🏻 I’m looking for a collaboration next GGJ<br>🎮 I'm using UE5 with C++ and BP<br>📧 Find me on DC @/atthiyya
+👩🏻‍💻 Currently looking for a team for a global game jam<br>🎮 I love UE5 with C++ and BP<br>📧 Find me on DC @/chillukba
 
 
 ## 🌐 Socials:
