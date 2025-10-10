@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 Currently looking for a team for a global game jam<br>🎮 I love UE5 with C++ and BP<br>📧 Find me on DC @/chillukba
+I'm an Unreal Engine Programmer with experience developing a variety of gameplay systems using C++ and Blueprints. His work includes implementing dialogue systems, multiplayer frameworks, AI behaviors, and UI for games on PC, mobile, and VR platforms.
 
 
 ## 🌐 Socials:
